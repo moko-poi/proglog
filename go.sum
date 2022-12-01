@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/moko-poi/proglog/internal v0.0.0-20221201062016-5068fcc4475c h1:WY4ffvw+6QzHvmlRsyGPrL1coUj6jWUvw3hylixt8KE=
+github.com/moko-poi/proglog/internal v0.0.0-20221201062016-5068fcc4475c/go.mod h1:f0QIRRSXrsz4WOXdiH1ILbeMZza7+N2pLOa2TxSv6cE=

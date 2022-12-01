@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	srv := server.NewHTTPServer
+	srv := server.NewHTTPServer()
 	log.Fatal(srv.ListenAndServe())
 }
